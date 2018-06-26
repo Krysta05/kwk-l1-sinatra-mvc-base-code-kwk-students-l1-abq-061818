@@ -3,5 +3,5 @@ Bundler.require
 
 riquire './app'
 
-run Application 
+run IdeaBoxApp
 
