@@ -1,5 +1,7 @@
-require 'sinatra'
-require './application_controller.rb'
+require 'bundle'
+Bundler.require 
+
+riquire './app'
 
 run Application 
 
